@@ -1,0 +1,812 @@
+[
+    {
+        "id": "mk-01",
+        "titulo": "Freshy Red",
+        "imagen": "./img/madking/mk1.jpg",
+        "categoria": {
+            "nombre": "Mad King",
+            "id": "mk"
+        },
+        "precio": 6479
+    },
+    {
+        "id": "mk-02",
+        "titulo": "BlueBerry Storm",
+        "imagen": "./img/madking/mk2.jpg",
+        "categoria": {
+            "nombre": "Mad King",
+            "id": "mk"
+        },
+        "precio": 6479
+    },
+    {
+        "id": "mk-03",
+        "titulo": "Cool Grape",
+        "imagen": "./img/madking/mk3.jpg",
+        "categoria": {
+            "nombre": "Mad King",
+            "id": "mk"
+        },
+        "precio": 6479
+    },
+    {
+        "id": "mk-04",
+        "titulo": "Green Apple Ice",
+        "imagen": "./img/madking/mk4.jpg",
+        "categoria": {
+            "nombre": "Mad King",
+            "id": "mk"
+        },
+        "precio": 6479
+    },
+    {
+        "id": "mk-05",
+        "titulo": "Golde Tobacco",
+        "imagen": "./img/madking/mk5.jpg",
+        "categoria": {
+            "nombre": "Mad King",
+            "id": "mk"
+        },
+        "precio": 6479
+    },
+    {
+        "id": "mk-06",
+        "titulo": "Vainilla Cubano",
+        "imagen": "./img/madking/mk6.jpg",
+        "categoria": {
+            "nombre": "Mad King",
+            "id": "mk"
+        },
+        "precio": 6479
+    },
+    {
+        "id": "mk-07",
+        "titulo": "Mango King",
+        "imagen": "./img/madking/mk7.jpg",
+        "categoria": {
+            "nombre": "Mad King",
+            "id": "mk"
+        },
+        "precio": 6479
+    },
+    {
+        "id": "mk-08",
+        "titulo": "Custard King",
+        "imagen": "./img/madking/mk8.jpg",
+        "categoria": {
+            "nombre": "Mad King",
+            "id": "mk"
+        },
+        "precio": 6479
+    },
+    {
+        "id": "mk-09",
+        "titulo": "Royal Custard",
+        "imagen": "./img/madking/mk9.jpg",
+        "categoria": {
+            "nombre": "Mad King",
+            "id": "mk"
+        },
+        "precio": 6479
+    },
+    {
+        "id": "mk-10",
+        "titulo": "Sweet Melon",
+        "imagen": "./img/madking/mk10.jpg",
+        "categoria": {
+            "nombre": "Mad King",
+            "id": "mk"
+        },
+        "precio": 6479
+    },
+    {
+        "id": "specialist-01",
+        "titulo": "Watermelon Strawberry Gummies",
+        "imagen": "./img/specialist/01.jpg",
+        "categoria": {
+            "nombre": "The Specialist",
+            "id": "specialist"
+        },
+        "precio": 11769
+    },
+    {
+        "id": "specialist-02",
+        "titulo": "Apple Radiactive",
+        "imagen": "./img/specialist/02.jpg",
+        "categoria": {
+            "nombre": "The Specialist",
+            "id": "specialist"
+        },
+        "precio": 11769
+    },
+    {
+        "id": "specialist-03",
+        "titulo": "LBC",
+        "imagen": "./img/specialist/03.jpg",
+        "categoria": {
+            "nombre": "The Specialist",
+            "id": "specialist"
+        },
+        "precio": 11769
+    },
+    {
+        "id": "specialist-04",
+        "titulo": "RockStar",
+        "imagen": "./img/specialist/04.jpg",
+        "categoria": {
+            "nombre": "The Specialist",
+            "id": "specialist"
+        },
+        "precio": 11769
+    },
+    {
+        "id": "specialist-05",
+        "titulo": "Waterfall",
+        "imagen": "./img/specialist/05.jpg",
+        "categoria": {
+            "nombre": "The Specialist",
+            "id": "specialist"
+        },
+        "precio": 11769
+    },
+    {
+        "id": "specialist-06",
+        "titulo": "Kings Custard",
+        "imagen": "./img/specialist/06.jpg",
+        "categoria": {
+            "nombre": "The Specialist",
+            "id": "specialist"
+        },
+        "precio": 11769
+    },
+    {
+        "id": "specialist-07",
+        "titulo": "Mocaccino Cream",
+        "imagen": "./img/specialist/07.jpg",
+        "categoria": {
+            "nombre": "The Specialist",
+            "id": "specialist"
+        },
+        "precio": 11769
+    },
+    {
+        "id": "specialist-08",
+        "titulo": "RY4 Reserve",
+        "imagen": "./img/specialist/08.jpg",
+        "categoria": {
+            "nombre": "The Specialist",
+            "id": "specialist"
+        },
+        "precio": 11769
+    },
+    {
+        "id": "specialist-09",
+        "titulo": "Tundra",
+        "imagen": "./img/specialist/09.jpg",
+        "categoria": {
+            "nombre": "The Specialist",
+            "id": "specialist"
+        },
+        "precio": 11769
+    },
+    {
+        "id": "specialist-10",
+        "titulo": "Intense",
+        "imagen": "./img/specialist/10.jpg",
+        "categoria": {
+            "nombre": "The Specialist",
+            "id": "specialist"
+        },
+        "precio": 11769
+    },
+    {
+        "id": "specialist-11",
+        "titulo": "Chill",
+        "imagen": "./img/specialist/11.jpg",
+        "categoria": {
+            "nombre": "The Specialist",
+            "id": "specialist"
+        },
+        "precio": 11769
+    },
+    {
+        "id": "specialist-12",
+        "titulo": "Bad Fish",
+        "imagen": "./img/specialist/12.jpg",
+        "categoria": {
+            "nombre": "The Specialist",
+            "id": "specialist"
+        },
+        "precio": 11769
+    },
+    {
+        "id": "specialist-13",
+        "titulo": "Lemon Tart",
+        "imagen": "./img/specialist/13.jpg",
+        "categoria": {
+            "nombre": "The Specialist",
+            "id": "specialist"
+        },
+        "precio": 11769
+    },
+    {
+        "id": "specialist-14",
+        "titulo": "Blue Razz",
+        "imagen": "./img/specialist/14.jpg",
+        "categoria": {
+            "nombre": "The Specialist",
+            "id": "specialist"
+        },
+        "precio": 11769
+    },
+    {
+        "id": "specialist-15",
+        "titulo": "Pink Splash",
+        "imagen": "./img/specialist/15.jpg",
+        "categoria": {
+            "nombre": "The Specialist",
+            "id": "specialist"
+        },
+        "precio": 11769
+    },
+    {
+        "id": "specialist-16",
+        "titulo": "Classic",
+        "imagen": "./img/specialist/16.jpg",
+        "categoria": {
+            "nombre": "The Specialist",
+            "id": "specialist"
+        },
+        "precio": 11769
+    },
+    {
+        "id": "specialist-17",
+        "titulo": "Tabaco Dulce",
+        "imagen": "./img/specialist/17.jpg",
+        "categoria": {
+            "nombre": "The Specialist",
+            "id": "specialist"
+        },
+        "precio": 11769
+    },
+    {
+        "id": "paradigma-01",
+        "titulo": "Ice Blast",
+        "imagen": "./img/paradigma/01.jpg",
+        "categoria": {
+            "nombre": "Paradigma Arkanos",
+            "id": "paradigma"
+        },
+        "precio": 9529
+    },
+    {
+        "id": "paradigma-02",
+        "titulo": "Honey Pipe",
+        "imagen": "./img/paradigma/02.jpg",
+        "categoria": {
+            "nombre": "Paradigma Arkanos",
+            "id": "paradigma"
+        },
+        "precio": 9529
+    },
+    {
+        "id": "paradigma-03",
+        "titulo": "Tabako Caribeño",
+        "imagen": "./img/paradigma/03.jpg",
+        "categoria": {
+            "nombre": "Paradigma Arkanos",
+            "id": "paradigma"
+        },
+        "precio": 9529
+    },
+    {
+        "id": "paradigma-04",
+        "titulo": "Horus",
+        "imagen": "./img/paradigma/04.jpg",
+        "categoria": {
+            "nombre": "Paradigma Arkanos",
+            "id": "paradigma"
+        },
+        "precio": 9529
+    },
+    {
+        "id": "paradigma-05",
+        "titulo": "Lamour",
+        "imagen": "./img/paradigma/05.jpg",
+        "categoria": {
+            "nombre": "Paradigma Arkanos",
+            "id": "paradigma"
+        },
+        "precio": 9529
+    },
+    {
+        "id": "paradigma-06",
+        "titulo": "Temperance",
+        "imagen": "./img/paradigma/06.jpg",
+        "categoria": {
+            "nombre": "Paradigma Arkanos",
+            "id": "paradigma"
+        },
+        "precio": 9529
+    },
+    {
+        "id": "paradigma-07",
+        "titulo": "La Mort",
+        "imagen": "./img/paradigma/07.jpg",
+        "categoria": {
+            "nombre": "Paradigma Arkanos",
+            "id": "paradigma"
+        },
+        "precio": 9529
+    },
+    {
+        "id": "paradigma-08",
+        "titulo": "Lola Mora",
+        "imagen": "./img/paradigma/08.jpg",
+        "categoria": {
+            "nombre": "Paradigma Arkanos",
+            "id": "paradigma"
+        },
+        "precio": 9529
+    },
+    {
+        "id": "paradigma-09",
+        "titulo": "Antigona",
+        "imagen": "./img/paradigma/09.jpg",
+        "categoria": {
+            "nombre": "Paradigma Arkanos",
+            "id": "paradigma"
+        },
+        "precio": 9529
+    },
+    {
+        "id": "paradigma-10",
+        "titulo": "Andromeda",
+        "imagen": "./img/paradigma/10.jpg",
+        "categoria": {
+            "nombre": "Paradigma Arkanos",
+            "id": "paradigma"
+        },
+        "precio": 9529
+    },
+    {
+        "id": "paradigma-11",
+        "titulo": "Tribeca",
+        "imagen": "./img/paradigma/11.jpg",
+        "categoria": {
+            "nombre": "Paradigma Arkanos",
+            "id": "paradigma"
+        },
+        "precio": 9529
+    },
+    {
+        "id": "paradigma-12",
+        "titulo": "La Emperatriz",
+        "imagen": "./img/paradigma/12.jpg",
+        "categoria": {
+            "nombre": "Paradigma Arkanos",
+            "id": "paradigma"
+        },
+        "precio": 9529
+    },
+    {
+        "id": "sales-01",
+        "titulo": "Don Juan Reserve",
+        "imagen": "./img/sales/01.jpg",
+        "categoria": {
+            "nombre": "Sales Importadas",
+            "id": "sales"
+        },
+        "precio": 19189
+    },
+    {
+        "id": "sales-02",
+        "titulo": "Don Juan Honey",
+        "imagen": "./img/sales/02.jpg",
+        "categoria": {
+            "nombre": "Sales Importadas",
+            "id": "sales"
+        },
+        "precio": 19189
+    },
+    {
+        "id": "sales-03",
+        "titulo": "Cushman Mango - Nasty",
+        "imagen": "./img/sales/03.jpg",
+        "categoria": {
+            "nombre": "Sales Importadas",
+            "id": "sales"
+        },
+        "precio": 17779
+    },
+    {
+        "id": "sales-04",
+        "titulo": "Silver - Nasty",
+        "imagen": "./img/sales/04.jpg",
+        "categoria": {
+            "nombre": "Sales Importadas",
+            "id": "sales"
+        },
+        "precio": 17779
+    },
+    {
+        "id": "sales-05",
+        "titulo": "Gold - Nasty",
+        "imagen": "./img/sales/05.jpg",
+        "categoria": {
+            "nombre": "Sales Importadas",
+            "id": "sales"
+        },
+        "precio": 17779
+    },
+    {
+        "id": "sales-06",
+        "titulo": "Vainilla Cubano - Nasty",
+        "imagen": "./img/sales/06.jpg",
+        "categoria": {
+            "nombre": "Sales Importadas",
+            "id": "sales"
+        },
+        "precio": 17779
+    },
+    {
+        "id": "sales-07",
+        "titulo": "Menthol Tobaco - Nasty",
+        "imagen": "./img/sales/07.jpg",
+        "categoria": {
+            "nombre": "Sales Importadas",
+            "id": "sales"
+        },
+        "precio": 17779
+    },
+    {
+        "id": "sales-08",
+        "titulo": "Peach Lemonade - Nasty",
+        "imagen": "./img/sales/08.jpg",
+        "categoria": {
+            "nombre": "Sales Importadas",
+            "id": "sales"
+        },
+        "precio": 17779
+    },
+    {
+        "id": "sales-09",
+        "titulo": "Mango Ice - Nasty",
+        "imagen": "./img/sales/09.jpg",
+        "categoria": {
+            "nombre": "Sales Importadas",
+            "id": "sales"
+        },
+        "precio": 17779
+    },
+    {
+        "id": "sales-10",
+        "titulo": "Cushman Grape - Nasty",
+        "imagen": "./img/sales/10.jpg",
+        "categoria": {
+            "nombre": "Sales Importadas",
+            "id": "sales"
+        },
+        "precio": 17779
+    },
+    {
+        "id": "sales-11",
+        "titulo": "Grape Ice - Mamma Juice",
+        "imagen": "./img/sales/11.jpg",
+        "categoria": {
+            "nombre": "Sales Importadas",
+            "id": "sales"
+        },
+        "precio": 14129
+    },
+    {
+        "id": "sales-12",
+        "titulo": "Menthol Ice  - Mamma Juice",
+        "imagen": "./img/sales/12.jpg",
+        "categoria": {
+            "nombre": "Sales Importadas",
+            "id": "sales"
+        },
+        "precio": 14129
+    },
+    {
+        "id": "sales-13",
+        "titulo": "Mango Ice - Mamma Juice",
+        "imagen": "./img/sales/13.jpg",
+        "categoria": {
+            "nombre": "Sales Importadas",
+            "id": "sales"
+        },
+        "precio": 14129
+    },
+    {
+        "id": "sales-14",
+        "titulo": "Banana Ice - Mamma Juice",
+        "imagen": "./img/sales/14.jpg",
+        "categoria": {
+            "nombre": "Sales Importadas",
+            "id": "sales"
+        },
+        "precio": 14129
+    },
+    {
+        "id": "sales-15",
+        "titulo": "Green Apple Ice - Mamma Juice",
+        "imagen": "./img/sales/15.jpg",
+        "categoria": {
+            "nombre": "Sales Importadas",
+            "id": "sales"
+        },
+        "precio": 14129
+    },
+    {
+        "id": "sales-16",
+        "titulo": "Berries Ice - Mamma Juice",
+        "imagen": "./img/sales/16.jpg",
+        "categoria": {
+            "nombre": "Sales Importadas",
+            "id": "sales"
+        },
+        "precio": 14129
+    },
+    {
+        "id": "sales-17",
+        "titulo": "Watermelon Lemon Mint - Blend",
+        "imagen": "./img/sales/17.jpg",
+        "categoria": {
+            "nombre": "Sales Importadas",
+            "id": "sales"
+        },
+        "precio": 14129
+    },
+    {
+        "id": "sales-18",
+        "titulo": "Mango Pineapple Mint - Blend",
+        "imagen": "./img/sales/18.jpg",
+        "categoria": {
+            "nombre": "Sales Importadas",
+            "id": "sales"
+        },
+        "precio": 14129
+    },
+    {
+        "id": "pod-01",
+        "titulo": "Wenax S-C / GeekVape",
+        "imagen": "./img/pods/01.jpg",
+        "categoria": {
+            "nombre": "Pods",
+            "id": "pods"
+        },
+        "precio": 20249
+    },
+    {
+        "id": "pod-02",
+        "titulo": "Koko Prime Vision / Caliburn",
+        "imagen": "./img/pods/02.jpg",
+        "categoria": {
+            "nombre": "Pods",
+            "id": "pods"
+        },
+        "precio": 40139
+    },
+    {
+        "id": "pod-03",
+        "titulo": "G2 / Caliburn",
+        "imagen": "./img/pods/03.jpg",
+        "categoria": {
+            "nombre": "Pods",
+            "id": "pods"
+        },
+        "precio": 14129
+    },
+    {
+        "id": "pod-04",
+        "titulo": "Sculptor / Uwell",
+        "imagen": "./img/pods/04.jpg",
+        "categoria": {
+            "nombre": "Pods",
+            "id": "pods"
+        },
+        "precio": 54599
+    },
+    {
+        "id": "pod-05",
+        "titulo": "Xros 3 Mini / Vaporesso",
+        "imagen": "./img/pods/05.jpg",
+        "categoria": {
+            "nombre": "Pods",
+            "id": "pods"
+        },
+        "precio": 46259
+    },
+    {
+        "id": "pod-06",
+        "titulo": "GK2 / Caliburn",
+        "imagen": "./img/pods/06.jpg",
+        "categoria": {
+            "nombre": "Pods",
+            "id": "pods"
+        },
+        "precio": 53789
+    },
+    {
+        "id": "kit-01",
+        "titulo": "Drag 4 / Voopoo",
+        "imagen": "./img/kits/01.jpg",
+        "categoria": {
+            "nombre": "Kits Intermedios y Avanzados",
+            "id": "kits"
+        },
+        "precio": 102279
+    },
+    {
+        "id": "kit-02",
+        "titulo": "Aegis S100 / GeekVape",
+        "imagen": "./img/kits/02.jpg",
+        "categoria": {
+            "nombre": "Kits Intermedios y Avanzados",
+            "id": "kits"
+        },
+        "precio": 86989
+    },
+    {
+        "id": "kit-03",
+        "titulo": "Aegis Boost Pro / GeekVape",
+        "imagen": "./img/kits/03.jpg",
+        "categoria": {
+            "nombre": "Kits Intermedios y Avanzados",
+            "id": "kits"
+        },
+        "precio": 78999
+    },
+    {
+        "id": "kit-04",
+        "titulo": "Drag X PNP-X / Voopoos",
+        "imagen": "./img/kits/04.jpg",
+        "categoria": {
+            "nombre": "Kits Intermedios y Avanzados",
+            "id": "kits"
+        },
+        "precio": 67209
+    },
+    {
+        "id": "resis-01",
+        "titulo": "High Ohm (Par)",
+        "imagen": "./img/resis/01.jpg",
+        "categoria": {
+            "nombre": "Resistencias / Coils",
+            "id": "resis"
+        },
+        "precio": 1889
+    },
+    {
+        "id": "resis-02",
+        "titulo": "Tricore Fused (Par)",
+        "imagen": "./img/resis/02.jpg",
+        "categoria": {
+            "nombre": "Resistencias / Coils",
+            "id": "resis"
+        },
+        "precio": 1889
+    },
+    {
+        "id": "resis-03",
+        "titulo": "Alien Mech 2.5 (Par)",
+        "imagen": "./img/resis/03.jpg",
+        "categoria": {
+            "nombre": "Resistencias / Coils",
+            "id": "resis"
+        },
+        "precio": 1889
+    },
+    {
+        "id": "resis-04",
+        "titulo": "Resistencia Wenax",
+        "imagen": "./img/resis/04.jpg",
+        "categoria": {
+            "nombre": "Resistencias / Coils",
+            "id": "resis"
+        },
+        "precio": 4239
+    },
+    {
+        "id": "resis-05",
+        "titulo": "Resistencia GT I",
+        "imagen": "./img/resis/05.jpg",
+        "categoria": {
+            "nombre": "Resistencias / Coils",
+            "id": "resis"
+        },
+        "precio": 4829
+    },
+    {
+        "id": "resis-06",
+        "titulo": "Resistencia GT X",
+        "imagen": "./img/resis/06.jpg",
+        "categoria": {
+            "nombre": "Resistencias / Coils",
+            "id": "resis"
+        },
+        "precio": 4829
+    },
+    {
+        "id": "resis-07",
+        "titulo": "Resistencia Aegis Boost Pro",
+        "imagen": "./img/resis/07.jpg",
+        "categoria": {
+            "nombre": "Resistencias / Coils",
+            "id": "resis"
+        },
+        "precio": 4829
+    },
+    {
+        "id": "resis-08",
+        "titulo": "Resistencia Aegis Boost/Plus",
+        "imagen": "./img/resis/08.jpg",
+        "categoria": {
+            "nombre": "Resistencias / Coils",
+            "id": "resis"
+        },
+        "precio": 4829
+    },
+    {
+        "id": "resis-09",
+        "titulo": "Resistencia PnP X",
+        "imagen": "./img/resis/09.jpg",
+        "categoria": {
+            "nombre": "Resistencias / Coils",
+            "id": "resis"
+        },
+        "precio": 5179
+    },
+    {
+        "id": "resis-10",
+        "titulo": "Resistencia PnP",
+        "imagen": "./img/resis/10.jpg",
+        "categoria": {
+            "nombre": "Resistencias / Coils",
+            "id": "resis"
+        },
+        "precio": 5179
+    },
+    {
+        "id": "resis-11",
+        "titulo": "Resistencia Koko Prime/G2/GK2",
+        "imagen": "./img/resis/11.jpg",
+        "categoria": {
+            "nombre": "Resistencias / Coils",
+            "id": "resis"
+        },
+        "precio": 5889
+    },
+    {
+        "id": "resis-12",
+        "titulo": "Resistencia GT Mesh",
+        "imagen": "./img/resis/12.jpg",
+        "categoria": {
+            "nombre": "Resistencias / Coils",
+            "id": "resis"
+        },
+        "precio": 5889
+    },
+    {
+        "id": "resis-13",
+        "titulo": "Cartucho Xros Pod",
+        "imagen": "./img/resis/13.jpg",
+        "categoria": {
+            "nombre": "Resistencias / Coils",
+            "id": "resis"
+        },
+        "precio": 6299
+    },
+    {
+        "id": "resis-14",
+        "titulo": "Cartucho Sculptor",
+        "imagen": "./img/resis/14.jpg",
+        "categoria": {
+            "nombre": "Resistencias / Coils",
+            "id": "resis"
+        },
+        "precio": 6299
+    }
+]
